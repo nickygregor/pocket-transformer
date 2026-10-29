@@ -1,0 +1,8 @@
+{
+  "seed": 7,
+  "steps": 800,
+  "corpus_bytes": 1230,
+  "first_training_loss": 5.61451363385787,
+  "last_training_loss": 0.7571319833852483,
+  "note": "Training-set loss only; tiny educational model, not a general-purpose LLM."
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "model": "model.bin",
+    "cached": true,
+    "median_decode_ms": 0.38825,
+    "weight_bytes": 114688,
+    "runs": 5
+  },
+  {
+    "model": "model.bin",
+    "cached": false,
+    "median_decode_ms": 11.839,
+    "weight_bytes": 114688,
+    "runs": 5
+  },
+  {
+    "model": "model-int8.bin",
+    "cached": true,
+    "median_decode_ms": 0.41425,
+    "weight_bytes": 32128,
+    "runs": 5
+  },
+  {
+    "model": "model-int8.bin",
+    "cached": false,
+    "median_decode_ms": 12.9425,
+    "weight_bytes": 32128,
+    "runs": 5
+  }
+]

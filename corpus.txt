@@ -1,0 +1,20 @@
+A small program can make a complicated day feel simpler.
+The student opens a notebook and writes one clear question.
+What does this function promise, and how can a test check it?
+Good software begins with a problem that someone understands.
+A budget is a record of choices, not a measure of a person.
+The weather changes, so a forecast should explain its uncertainty.
+Two peers exchange a message after they verify each other.
+A private key belongs only to the person who created it.
+The cache remembers useful work so the next step can reuse it.
+A model predicts the next token from the tokens that came before.
+Small experiments help us see where an assumption breaks.
+We measure a system before we decide how to make it faster.
+A clear error message is part of a thoughtful interface.
+The best documentation tells the truth about the limitations.
+Learning happens when we can explain both the code and the tradeoff.
+A passing test is evidence about one behavior, not every behavior.
+The developer checks the boundary, the empty input, and the failure.
+The morning is quiet and there is time for one careful change.
+The project grows one understandable piece at a time.
+A simple design leaves room for the next person to learn.
